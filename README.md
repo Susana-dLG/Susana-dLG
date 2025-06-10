@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm passionate about data analysis, visualization, and clo
  
 ### 🧮 Microsoft Excel  
 <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="40" />  
-Skilled in using Excel for advanced data analysis, pivot tables, dashboards, and automation with formulas like `VLOOKUP`, `INDEX/MATCH`, and `IF` logic.
+Skilled in using Excel for advanced data analysis, pivot tables, dashboards, and automation with formulas like `VLOOKUP`, SUMIFS, and `IF` logic.
  
 ---
  
