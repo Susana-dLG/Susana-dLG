@@ -69,12 +69,6 @@ May 2025
 
 
 
----
-
-**Thanks for stopping by!** 🚀  
-Created by Susana-dLG  
-May 2025
-```
 
 
 
