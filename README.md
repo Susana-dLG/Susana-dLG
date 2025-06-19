@@ -66,3 +66,15 @@ Capable of building sleek, interactive Power BI dashboards with DAX measures, ca
 ---
 Created by Susana-dLG
 May 2025
+
+
+
+---
+
+**Thanks for stopping by!** 🚀  
+Created by Susana-dLG  
+May 2025
+```
+
+
+
