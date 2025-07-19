@@ -60,7 +60,6 @@ Capable of building sleek, interactive Power BI dashboards with DAX measures, ca
  
 - 🌐 https://www.linkedin.com/in/susana-de-lama/
 
- 
 ---
 **Thanks for stopping by!** 🚀
 ---
